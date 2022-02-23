@@ -1,0 +1,15 @@
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/C#_Variable_Assignment.csproj.AssemblyReference.cache
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/C#_Variable_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/C#_Variable_Assignment.AssemblyInfoInputs.cache
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/C#_Variable_Assignment.AssemblyInfo.cs
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/C#_Variable_Assignment.csproj.CoreCompileInputs.cache
+/home/walexy/C#_project/C#_Variable_Assignment/bin/Debug/net6.0/C#_Variable_Assignment
+/home/walexy/C#_project/C#_Variable_Assignment/bin/Debug/net6.0/C#_Variable_Assignment.deps.json
+/home/walexy/C#_project/C#_Variable_Assignment/bin/Debug/net6.0/C#_Variable_Assignment.runtimeconfig.json
+/home/walexy/C#_project/C#_Variable_Assignment/bin/Debug/net6.0/C#_Variable_Assignment.dll
+/home/walexy/C#_project/C#_Variable_Assignment/bin/Debug/net6.0/C#_Variable_Assignment.pdb
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/C#_Variable_Assignment.dll
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/refint/C#_Variable_Assignment.dll
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/C#_Variable_Assignment.pdb
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/C#_Variable_Assignment.genruntimeconfig.cache
+/home/walexy/C#_project/C#_Variable_Assignment/obj/Debug/net6.0/ref/C#_Variable_Assignment.dll
